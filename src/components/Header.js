@@ -23,7 +23,7 @@ const Header = () => {
           <li className="px-4">
             Online Status:{" "}
             <span style={{ fontSize: "20px" }}>
-              {isLoggedIn ? "✅" : "❌"}
+              {isLoggedIn ? "✔️" : "❌"}
             </span>
           </li>
           <li className="px-4">
